@@ -9,8 +9,7 @@ def add(param1, param2):
    print ("pass")
 
  
- 
- 
+''' 
 Write a function that returns the sum of two numbers.
 
 Example: 
@@ -19,3 +18,4 @@ Example:
 Test: 
 Input: param1: 1 ,param2: 2
 Expected Output: 3
+'''
